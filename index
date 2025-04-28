@@ -13,7 +13,7 @@
         <h2 class="titulo-principal">Meus objetivos do ano<span>_</span></h2>
         <div class="conteudo">
             <div class="botoes">
-                <button class="botao ativo">terminar os tudos</button>
+                <button class="botao ativo">terminar os estudos</button>
                 <button class="botao">começar a faculdade</button>
                 <button class="botao">começar a trabalhar na area que eu me formar</button>
                 <button class="botao">ter uma boa estrutura financeira</button>
@@ -77,11 +77,11 @@
                         </div>
                         <div class="contador-digito">
                             <p class="contador-digito-numero" id="20"></p>
-                            <p class="contador-digito-texto">720</p>
+                            <p class="contador-digito-texto">60</p>
                         </div>
                         <div class="contador-digito">
                             <p class="contador-digito-numero" id="60"></p>
-                            <p class="contador-digito-texto">3000</p>
+                            <p class="contador-digito-texto">60</p>
                         </div>
                     </div>
                 </div>
@@ -98,7 +98,7 @@
                             <p class="contador-digito-texto">hora</p>
                         </div>
                         <div class="contador-digito">
-                            <p class="contador-digito-numero" id="20"></p>
+                            <p class="contador-digito-numero" id="60"></p>
                             <p class="contador-digito-texto">60</p>
                         </div>
                         <div class="contador-digito">
